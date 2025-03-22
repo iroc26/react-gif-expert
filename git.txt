@@ -1,0 +1,14 @@
+Cómo se usa git
+
+consola:
+
+para iniciar git:
+git init
+
+para hacer el primer commit:
+git add .
+git commit -m "Primer commit"
+
+para restaurar:
+git checkout -- .
+
